@@ -27,11 +27,11 @@
 - Improving Vue
 - Backend with Go
 
-
 # About me
 ## ⚡ My skills:
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,scss,tailwind,react,vue,next,cpp,cs,dotnet,unity,godot,git,figma,go,flutter,dart,firebase,py,mongo,arduino)](https://skills.thijs.gg)
+![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,scss,tailwind,react,vue,next,cpp,cs)
+![My Skills](https://skills.thijs.gg/icons?i=dotnet,unity,godot,git,go,flutter,dart,firebase,py,mongo,arduino)
 
 ## 🔧 Tools I use:
 
