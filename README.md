@@ -4,25 +4,14 @@
 
 ### https://arkhatic.com
 
-##### available on all streaming platforms!
-
-<br>
-
-# Here are some of my songs ❤️
-
-<iframe 
-  style="border-radius:19px" 
-  src="https://open.spotify.com/embed/artist/6aulxiSEQSIzqKq9VFZ4mb?utm_source=generator&theme=0" 
-  width="100%" height="300" frameBorder="0" 
-  allowfullscreen="" 
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-  loading="lazy">
-</iframe>
-
+# Listen to my radio! ❤️
+[![](https://seeded-session-images.scdn.co/v1/img/artist/6aulxiSEQSIzqKq9VFZ4mb/en)](https://open.spotify.com/playlist/37i9dQZF1E4vxJZBNqTH2G?si=97528d5bdf634b0b)
 <br>
 
 # Now back to programming!
 ![](https://img.shields.io/badge/currently-online-brightgreen)
+![](https://img.shields.io/badge/always-learning-brightgreen)
+![](https://img.shields.io/badge/never-surrendering-red)
 
 ## 🔭 I'm currently working on
 
@@ -38,15 +27,11 @@
 - Improving Vue
 - Backend with Go
 
-<br>
 
 # About me
-
 ## ⚡ My skills:
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,scss,tailwind,react,vue,next,cpp,cs,dotnet,unity,godot,git,figma,go,flutter,dart,firebase,py,mongo,arduino)](https://skills.thijs.gg)
-
-<br>
 
 ## 🔧 Tools I use:
 
@@ -63,7 +48,6 @@
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-<br>
 
 ## 📈 My stats:
 
@@ -72,21 +56,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkhatic&layout=compact)](https://github.com/yushi1007)
 
 ---
-<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arkhatic)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!--
-**arkhatic/arkhatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
