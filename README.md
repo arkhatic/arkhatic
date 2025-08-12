@@ -31,7 +31,7 @@
 ## ⚡ My skills:
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,react,vue,next,cpp,cs,docker,prisma)
-![Skills](https://skills.thijs.gg/icons?i=dotnet,unity,godot,git,go,flutter,dart,firebase,py,mongo,arduino)
+![Skills](https://skillscons.dev/icons?i=dotnet,unity,godot,git,go,flutter,dart,firebase,py,mongo,arduino)
 
 ## 🔧 Tools I use:
 
