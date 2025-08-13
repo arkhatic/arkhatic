@@ -30,8 +30,8 @@
 # About me
 ## ⚡ My skills:
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,react,vue,next,c,cpp,cs,docker,prisma,ableton,electron,firebase,gamemakerstudio,kali,obsidian,windows)
-![Skills](https://skillicons.dev/icons?i=dotnet,unity,godot,git,go,flutter,dart,firebase,py,mongo,arduino,androidstudio,arch,au,ai,azure,bash,dart,debian,rust,unity,unreal)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,react,vue,next,c,cpp,cs,docker,prisma,ableton,electron,firebase,gamemakerstudio,kali,obsidian,windows,dotnet,unity,godot,git,go,flutter,dart,firebase,py)
+![Skills](https://skillicons.dev/icons?i=mongo,arduino,androidstudio,arch,au,ai,azure,bash,dart,debian,rust,unity,unreal)
 
 ## 🔧 Tools I use:
 
